@@ -177,9 +177,15 @@
 .steamicon2:hover{
     transform: translateY(-10px);
 }
+.form{
+    margin-left: 675px;
+    margin-top: -50px;
+    
+}
 
 .lolicon{
     margin-left: 70px;
     width: 15px;
     height: 15px;
+    margin-top: -235px;
 }
